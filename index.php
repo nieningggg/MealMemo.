@@ -70,7 +70,7 @@
         </div>
     </div>
 
-    <!-- Animation Keyframes -->
+    <!-- Animation Keyframes  -->
     <style>
         @keyframes slideUp {
             0%   { transform: translateY(20px); opacity: 0; }
