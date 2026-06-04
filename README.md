@@ -175,31 +175,6 @@
 
 ---
 
-## 🧪 Browser Support
-
-| Browser | Version | Status |
-|---------|---------|--------|
-| Google Chrome | Latest | ✅ Fully supported (recommended) |
-| Mozilla Firefox | Latest | ✅ Supported |
-| Microsoft Edge | Latest | ✅ Supported |
-| Safari | Latest | ✅ Supported |
-
----
-
-## 👨‍💻 Author
-
-**IMS566 Company**  
-Faculty of Information Management  
-Universiti Teknologi MARA (UiTM)
-
----
-
-## 🔗 Live Demo
-
-[Insert your GitHub Pages live link here]
-
-
----
 
 ## 📦 GitHub Repository
 
@@ -207,4 +182,3 @@ https://github.com/nieningggg/MealMemo.
 
 ---
 
-## © 2026 IMS566 Company. All rights reserved.
