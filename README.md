@@ -178,7 +178,8 @@
 
 ## 📦 GitHub Repository
 
-https://github.com/nieningggg/MealMemo.
+https://github.com/nieningggg/MealMemo..git
+
 
 ---
 
